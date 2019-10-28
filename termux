@@ -1,0 +1,8 @@
+1_  pkg install python2-dev python2 git -y
+2_  apt install python2
+3_  apt install git
+4_  pip2 install mechanize
+5_  pip2 install requests
+6_  git clone https://github.com/pashayogi/SETAN
+7_  cd SETAN
+8_  python2 SETAN.py
